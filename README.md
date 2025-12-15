@@ -15,7 +15,7 @@ A modern Windows GUI application to remove AI features (Copilot, Recall, etc.) f
 5. Restart your computer.
 
 ## Credits
-- **GUI & Python Wrapper**: Developed by [Your Name/Antigravity]
+- **GUI & Python Wrapper**: Developed by [TAKIANFIF/Antigravity]
 - **PowerShell Logic**: Based on the excellent work by [@zoicware](https://github.com/zoicware) / [TAKIANFIF](https://github.com/TAKIANFIF).
 
 ## Build from Source
@@ -26,3 +26,4 @@ pyinstaller --noconsole --onefile --uac-admin --name "RemoveWindowsAI_GUI" --add
 
 ## Disclaimer
 This tool modifies system files and registry keys. Use at your own risk. Always create a restore point before using.
+
